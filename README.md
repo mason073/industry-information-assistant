@@ -1,4 +1,4 @@
-# Industry Information Assistant
+# AI Assistant
 
 基于多 Agent 协作的行业深度研究助手，集成 Deep Research、RAG 知识库、实时资讯采集、Text2SQL 数据分析等能力，帮助用户快速获取行业洞察。
 
